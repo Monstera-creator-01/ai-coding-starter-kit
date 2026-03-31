@@ -317,9 +317,6 @@ npm run test:all     # Run both test suites
 
 Created by **Alex Sprogis** – AI Product Engineer & Content Creator.
 
-- [YouTube](https://www.youtube.com/@alex.sprogis)
-- [Website](https://alexsprogis.de)
-
 ---
 
 ## License
